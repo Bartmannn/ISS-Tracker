@@ -1,7 +1,7 @@
 """
-Title: ISS Tracker
-Author: Bartosz Bohdziewicz
-Date: 24-07-2022
+    Title: ISS Tracker
+    Author: Bartosz Bohdziewicz
+    Date: 24-07-2022
 """
 
 from tkinter import *
