@@ -1,6 +1,6 @@
 # ISS-Tracker
 
-Prosty program do śledzenia międzynarodowej stacji kosmicznej ISS. Pobiera dane nad jakim skrawkiem Ziemii się aktualnie znajduje i wyświetla graficznie te dane. Program także obsługuje timeline, żeby sprawdzić, gdzie stacja kosmiczna się znajdowała w przeszłości.
+Program do śledzenia międzynarodowej stacji kosmicznej ISS. Pobiera dane nad jakim skrawkiem Ziemii się aktualnie znajduje i wyświetla graficznie te dane. Program także obsługuje timeline, żeby sprawdzić, gdzie stacja kosmiczna się znajdowała w przeszłości.
 
 ## Demo  
 ![Demo](./images/ISS-Tracker-demo.gif)  
